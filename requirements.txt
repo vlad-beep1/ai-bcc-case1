@@ -1,0 +1,11 @@
+pandas
+polars
+numpy
+tqdm
+jinja2
+pydantic
+lightgbm
+click
+streamlit
+openai
+python-dotenv
